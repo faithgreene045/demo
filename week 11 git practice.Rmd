@@ -1,6 +1,6 @@
 ---
 title: "week 11 git practice"
-output: html_document
+output: github_document
 date: "2026-11-17"
 ---
 
